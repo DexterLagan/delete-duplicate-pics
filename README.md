@@ -4,7 +4,7 @@ A small app that deletes duplicates jpeg files created by Adobe Bridge upon impo
 
 ## Download
 
-Download the latest release from https://github.com/DexterLagan/delete-duplicate-pics/releases
+Download the latest release for Windows x64 [HERE](https://github.com/DexterLagan/delete-duplicate-pics/releases).
 
 ## License
 
