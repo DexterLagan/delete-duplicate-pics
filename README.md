@@ -8,4 +8,4 @@ Download the latest release for Windows x64 [HERE](https://github.com/DexterLaga
 
 ## License
 
-Delete-duplicate-pics is free software; see [LICENSE](https://github.com/DexterLagan/delete-duplicate-pics/blob/main/LICENSE) for more details.
+Delete-duplicate-pics is free software; see [LICENSE](https://github.com/DexterLagan/delete-duplicate-pics/blob/master/LICENSE) for more details.
